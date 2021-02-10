@@ -41,4 +41,7 @@ Shader "Custom/Diffuse"
             ENDCG
         }
     }
+
+    //Comment Out Fallback when developing
+    //Fallback "Diffuse"
 }
